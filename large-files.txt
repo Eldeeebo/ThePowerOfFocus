@@ -1,0 +1,16 @@
+# Large Files Excluded from Repository
+
+The following files exceed GitHub's size limits and should be handled separately:
+
+## Excluded Files
+- List large files that were removed
+- Include their original size
+- Include instructions for handling them separately
+
+## Recommendations
+1. Store large files using Git LFS (Large File Storage)
+2. Host media files on a dedicated service
+3. Split large datasets into smaller chunks if possible
+4. Use compressed formats where appropriate
+
+Note: Maintain the repository size under 100MB for better compatibility with version control systems.
